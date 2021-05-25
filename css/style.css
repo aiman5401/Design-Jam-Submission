@@ -104,7 +104,7 @@ disable-dbl-tap-zoom {
 }
 .empty {
   margin: 15px 0px;
-  font-family: Raleway, sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 25px;
   font-weight: bolder;
 }
@@ -112,7 +112,7 @@ disable-dbl-tap-zoom {
   font-family: Roboto, sans-serif;
 }
 .checkout {
-  font-family: Raleway, sans-serif;
+  font-family: 'Raleway', sans-serif;
   padding: 15px 25px;
   font-size: 24px;
   cursor: pointer;
@@ -318,7 +318,7 @@ disable-dbl-tap-zoom {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: Raleway, sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
 }
 .nav-list li {
@@ -378,7 +378,7 @@ header {
 }
 .slogan {
   font-size: 30px;
-  font-family: Raleway, sans-serif;
+  font-family: 'Raleway', sans-serif;
   text-align: center;
   text-shadow: 1.5px 1.5px #000;
 }
@@ -386,7 +386,7 @@ img {
   object-fit: cover;
 }
 .main-btn {
-  font-family: Raleway, sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   display: inline-block;
   padding: 15px 25px;
@@ -417,7 +417,7 @@ img {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  background-image:url("https://images.unsplash.com/photo-1527515545081-5db817172677?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+  background-image:url("https://images.unsplash.com/photo-1514517220017-8ce97a34a7b6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -486,7 +486,7 @@ img[alt="restaurant"] {
   font-size: 20px;
   letter-spacing: 1px;
   color: #fff;
-  font-family: Raleway, sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: bolder;
   cursor: pointer;
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.329);
@@ -775,7 +775,7 @@ img[alt="restaurant"] {
 .add,
 .submit {
   font-size: 20px;
-  font-family: Raleway, sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: bolder;
   cursor: pointer;
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.329);
@@ -794,7 +794,7 @@ img[alt="restaurant"] {
 .added {
   margin: auto;
   padding: 20px 20px 0 20px;
-  font-family: Raleway, sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 20px;
   font-weight: bolder;
 }
@@ -807,7 +807,7 @@ img[alt="restaurant"] {
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  background-image:linear-gradient(rgb(158, 72, 86),#e6e6e6)
+  background-image:linear-gradient(#e6e6e6,gray)
   color: #070707;
 }
 #contact h2 {
@@ -822,7 +822,7 @@ img[alt="restaurant"] {
   margin-bottom: 20px;
 }
 #contact p {
-  font-family: "Fredoka One", cursive;
+  font-family: "Roboto", cursive;
   color: #e60073;
 }
 #contact img {
@@ -920,10 +920,6 @@ input[type="number"]::-webkit-outer-spin-button {
 /*MEDIA QUERIES*/
 
 @media only screen and (orientation: landscape) {
-  header {
-    /* background: linear-gradient(rgba(71, 2, 43, 0.342), rgba(56, 53, 53, 0.45)),
-      url(../img/other-formats/donuts.jpg); */
-  }
   #original .item-image {
     background-image: url(../img/other-formats/original-glazed.jpg);
   }
@@ -1052,10 +1048,6 @@ input[type="number"]::-webkit-outer-spin-button {
     padding:10px;
     bottom: 15%;
     right: auto;
-  }
-  header {
-    /* background: linear-gradient(rgba(71, 2, 43, 0.342), rgba(56, 53, 53, 0.45)),
-      url(../img/webp/donuts.webp); */
   }
   #original .item-image {
     background-image: url(../img/webp/original-glazed.webp);
