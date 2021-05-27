@@ -17,7 +17,7 @@ html {
 
 body {
   margin: 0;
-  font-family:'satisfy', cursive;
+  font-family:'Roboto', cursive;
 }
 button {
   font-family: Verdana, Geneva, Tahoma, sans-serif, cursive;
@@ -112,7 +112,7 @@ disable-dbl-tap-zoom {
   font-family: Roboto, sans-serif;
 }
 .checkout {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   padding: 15px 25px;
   font-size: 24px;
   cursor: pointer;
@@ -176,7 +176,7 @@ disable-dbl-tap-zoom {
 .desk ul {
   font-size: 20px;
   font-weight: 700;
-  font-family: 'Raleway', sans-serif;
+  font-family: Roboto, sans-serif;
   padding: 0;
   display: none;
   list-style: none;
@@ -185,7 +185,7 @@ disable-dbl-tap-zoom {
   padding: 10px;
 }
 .desk ul li:hover {
-  background-color: #e60073;
+  background-color: #236b88;
   border-radius: 10px;
 }
 .desk ul li a {
@@ -245,7 +245,7 @@ disable-dbl-tap-zoom {
   color: #38190f;
 }
 .logo a:hover {
-  color: #e60073;
+  color: #28a2db;
   transition: all 0.2s ease-out;
 }
 .nav-icon {
@@ -264,7 +264,7 @@ disable-dbl-tap-zoom {
 .nav-icon:hover .new-nav1,
 .nav-icon:hover .new-nav2,
 .nav-icon:hover .new-nav3 {
-  background-color: #e60073;
+  background-color: #5fc2e9;
 }
 .bar {
   width: 32px;
@@ -318,14 +318,14 @@ disable-dbl-tap-zoom {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'roboto', sans-serif;
   font-weight: 700;
 }
 .nav-list li {
   padding: 10px;
 }
 .nav-list li:hover {
-  background-color: #e60073;
+  background-color: #22799b;
   border-radius: 10px;
 }
 .nav-list li a {
@@ -378,7 +378,7 @@ header {
 }
 .slogan {
   font-size: 30px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'dancing script', sans-serif;
   text-align: center;
   text-shadow: 1.5px 1.5px #000;
 }
@@ -386,7 +386,7 @@ img {
   object-fit: cover;
 }
 .main-btn {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   display: inline-block;
   padding: 15px 25px;
@@ -396,7 +396,7 @@ img {
   text-decoration: none;
   outline: 0;
   color: #fff;
-  background-color: #e60073;
+  background-color: #437986;
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.329);
   border: none;
   width: 200px;
@@ -404,7 +404,7 @@ img {
   transition: background-color 0.2s ease-in;
 }
 .main-btn:hover {
-  background-color: #61173a;
+  background-color: #0e3a6d;
 }
 .title {
   padding-top: 30px;
@@ -417,12 +417,12 @@ img {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  background-image:url("https://images.unsplash.com/photo-1590251786954-cf189e67d0bd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=968&q=80");
+  background-image:url("https://images.unsplash.com/photo-1522441815192-d9f04eb0615c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=282&q=80");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .title {
-  color: #e9fafc;
+  color: #4b7394;
 }
 .about-content {
   display: flex;
@@ -437,8 +437,8 @@ img {
   padding: 30px;
   border-radius: 10px;
   font-size: 17px;
-  font-family: "Dancing script", cursive;
-  color: #e60073;
+  font-family: "Roboto", cursive;
+  color: #68c0db;
   text-align: center;
   padding: 10px;
   box-shadow: 5px 10px 10px #e600731a;
@@ -447,7 +447,7 @@ img {
   line-height: 25px;
 }
 #about hr {
-  border: 2px solid #e60073;
+  border: 2px solid #68c0db;
   width: 70%;
   margin-bottom: 30px;
 }
@@ -486,11 +486,11 @@ img[alt="restaurant"] {
   font-size: 20px;
   letter-spacing: 1px;
   color: #fff;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: bolder;
   cursor: pointer;
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.329);
-  background-color: #e60073;
+  background-color: #68c0db;
   padding: 10px;
   border: none;
   border-radius: 10px;
@@ -537,7 +537,7 @@ img[alt="restaurant"] {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image:url("https://images.unsplash.com/photo-1564951434112-64d74cc2a2d7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80");
+  background-image:url("https://images.unsplash.com/photo-1605478185737-99ae313e940c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80");
   background-repeat: no-repeat;
   background-size: cover;
 
