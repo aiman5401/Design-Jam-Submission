@@ -176,7 +176,7 @@ disable-dbl-tap-zoom {
 .desk ul {
   font-size: 20px;
   font-weight: 700;
-  font-family: Raleway, sans-serif;
+  font-family: 'Raleway', sans-serif;
   padding: 0;
   display: none;
   list-style: none;
@@ -417,7 +417,7 @@ img {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  background-image:url("https://images.unsplash.com/photo-1514517220017-8ce97a34a7b6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80");
+  background-image:url("https://images.unsplash.com/photo-1590251786954-cf189e67d0bd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=968&q=80");
   background-repeat: no-repeat;
   background-size: cover;
 }
